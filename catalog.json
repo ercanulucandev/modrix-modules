@@ -1,5 +1,5 @@
 {
-    "generated_at": "2026-11-11T15:23:30+03:00",
+    "generated_at": "2026-11-11T15:59:18+03:00",
     "modules": [
         {
             "slug": "Blog",
@@ -12,11 +12,11 @@
                 "modrix": "1.0.0",
                 "php": "8.1"
             },
-            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/packages/Blog-2.1.0.zip",
-            "sha256": "fdbceae7aae7eb2e7cb5bb9192ffe9532a3857fbac6d02d621067c4d6b6e39f6",
+            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/packages/Blog-2.1.0.zip",
+            "sha256": "e5dbee29d5dbce356d066caf61155bf71e591c60832892db61eded54aac984ea",
             "price": 0,
             "buy_url": "",
-            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/icons/Blog.svg"
+            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/icons/Blog.svg"
         },
         {
             "slug": "Booking",
@@ -29,11 +29,11 @@
                 "modrix": "1.0.0",
                 "php": "8.1"
             },
-            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/packages/Booking-1.0.0.zip",
-            "sha256": "e334bd5eedd1ee134e6aa990dba80751c90a64dd85358075bf4413a5094c046e",
+            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/packages/Booking-1.0.0.zip",
+            "sha256": "b1eaaf8bfdac3dc1ca1a3cee32abc59c29f95784c554730310bb4ce7609ba7ad",
             "price": 0,
             "buy_url": "",
-            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/icons/Booking.svg"
+            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/icons/Booking.svg"
         },
         {
             "slug": "Cookies",
@@ -46,11 +46,11 @@
                 "modrix": "1.0.0",
                 "php": "8.1"
             },
-            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/packages/Cookies-1.0.0.zip",
-            "sha256": "6d47f338e17c8392bd6069fec305cf0f0c6fe6e23f354eb5c85ef0d2f8a991e6",
+            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/packages/Cookies-1.0.0.zip",
+            "sha256": "b11d52bf0017c371bc50e4aec2879af911f4379c01bc56596e816da516be4e51",
             "price": 0,
             "buy_url": "",
-            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/icons/Cookies.svg"
+            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/icons/Cookies.svg"
         },
         {
             "slug": "Faq",
@@ -63,11 +63,11 @@
                 "modrix": "1.0.0",
                 "php": "8.1"
             },
-            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/packages/Faq-1.0.0.zip",
-            "sha256": "184146bb536f742dd4a01071224e39cfb250f56dbef2efbb7aef5b3f27563b71",
+            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/packages/Faq-1.0.0.zip",
+            "sha256": "59721e093d154be26808c03bc2a7e8e81a5f3dec3783e0466374d3660486887f",
             "price": 0,
             "buy_url": "",
-            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/icons/Faq.svg"
+            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/icons/Faq.svg"
         },
         {
             "slug": "Forms",
@@ -80,11 +80,11 @@
                 "modrix": "1.0.0",
                 "php": "8.1"
             },
-            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/packages/Forms-1.1.0.zip",
-            "sha256": "d324fbb642b87705903fdf9f2298a2c2ef7dfe29ce2c6388982c0819bd318179",
+            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/packages/Forms-1.1.0.zip",
+            "sha256": "6678f66345ccfe16d07a7774bf2322eb3b8edccf051a7853992ba5ec2b19ba0d",
             "price": 0,
             "buy_url": "",
-            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/icons/Forms.svg"
+            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/icons/Forms.svg"
         },
         {
             "slug": "LiveChat",
@@ -97,11 +97,11 @@
                 "modrix": "1.0.0",
                 "php": "8.1"
             },
-            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/packages/LiveChat-1.0.0.zip",
-            "sha256": "2dae4aa5bdf12165a5b3a56f20c4c6436e83b71318b57d63499fc66754396b6f",
+            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/packages/LiveChat-1.0.0.zip",
+            "sha256": "58461c19c7c8a1ff806dd2cb88d755910c9eeaa08311b2853c5fc4433550053e",
             "price": 0,
             "buy_url": "",
-            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/icons/LiveChat.svg"
+            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/icons/LiveChat.svg"
         },
         {
             "slug": "Newsletter",
@@ -114,11 +114,11 @@
                 "modrix": "1.0.0",
                 "php": "8.1"
             },
-            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/packages/Newsletter-1.0.0.zip",
-            "sha256": "16dccc19d1ebac37b4631fb9a7fdeafa7ca8c93143c0224b2fb2e8130d3e086f",
+            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/packages/Newsletter-1.0.0.zip",
+            "sha256": "a8f7b368cbd8f4ae7302f040f9d4efedc35606304e9b243379d10a89a771dc61",
             "price": 0,
             "buy_url": "",
-            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/icons/Newsletter.svg"
+            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/icons/Newsletter.svg"
         },
         {
             "slug": "Pages",
@@ -131,11 +131,11 @@
                 "modrix": "1.0.0",
                 "php": "8.1"
             },
-            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/packages/Pages-1.3.0.zip",
-            "sha256": "730420b71873e7d6853b9bf5ec23de0fcdee0d4ceee068e62001e3f0802281b9",
+            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/packages/Pages-1.3.0.zip",
+            "sha256": "91ad14507d756ac1a4b18abbeff35585f1fa3bef12e83b9faba4e7efb0aeb0d2",
             "price": 0,
             "buy_url": "",
-            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/icons/Pages.svg"
+            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/icons/Pages.svg"
         },
         {
             "slug": "Portfolio",
@@ -148,11 +148,11 @@
                 "modrix": "1.0.0",
                 "php": "8.1"
             },
-            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/packages/Portfolio-1.0.0.zip",
-            "sha256": "7945e7d85b4aa42e4d017ecd5821738c900f420a38ca72f7e16ff77cb50d4209",
+            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/packages/Portfolio-1.0.0.zip",
+            "sha256": "b073b416bcf3e5c1c8b836bddd8980da340dc9d13a061cea03ad7f0489e2e980",
             "price": 0,
             "buy_url": "",
-            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/icons/Portfolio.svg"
+            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/icons/Portfolio.svg"
         },
         {
             "slug": "References",
@@ -165,11 +165,11 @@
                 "modrix": "1.0.0",
                 "php": "8.1"
             },
-            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/packages/References-1.0.0.zip",
-            "sha256": "0f3d408060e1f4a6179687d5015c91aed4809e9f15268236b4321e3ca051f21c",
+            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/packages/References-1.0.0.zip",
+            "sha256": "6aca3cccdb3112426767180d318784be22e6734b44d797df7d91657647dc9935",
             "price": 0,
             "buy_url": "",
-            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/icons/References.svg"
+            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/icons/References.svg"
         },
         {
             "slug": "Shop",
@@ -182,11 +182,11 @@
                 "modrix": "1.0.0",
                 "php": "8.1"
             },
-            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/packages/Shop-1.0.0.zip",
-            "sha256": "bc13dcc02d19817f8b6389f4a9d3ad68233831b520ebb2dff256d3cafa9eb00c",
+            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/packages/Shop-1.0.0.zip",
+            "sha256": "648437c1c64860bd359ea06e5601c9792f7ef07d421d166bbc7b370114708b53",
             "price": 0,
             "buy_url": "",
-            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/icons/Shop.svg"
+            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/icons/Shop.svg"
         },
         {
             "slug": "Team",
@@ -199,11 +199,11 @@
                 "modrix": "1.0.0",
                 "php": "8.1"
             },
-            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/packages/Team-1.0.0.zip",
-            "sha256": "333568d00e783d210042d4f2c9a3ef66e7b342bdb7fe85e1ef109152e9abd4de",
+            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/packages/Team-1.0.0.zip",
+            "sha256": "25dbbe2e6999625271b29300c99b1e9da80f42b5754d82df2f2a906ac41af5bf",
             "price": 0,
             "buy_url": "",
-            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/icons/Team.svg"
+            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/icons/Team.svg"
         },
         {
             "slug": "Whatsapp",
@@ -216,11 +216,11 @@
                 "modrix": "1.0.0",
                 "php": "8.1"
             },
-            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/packages/Whatsapp-1.1.0.zip",
-            "sha256": "ac83520b598ea205bb60739ad06a6e95aeac219f3ff348409e93733d130030e1",
+            "download": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/packages/Whatsapp-1.1.0.zip",
+            "sha256": "cae17150f3df1714aedf645a2bc76f44ee2427bbc0d4395a93279f72543f5c13",
             "price": 0,
             "buy_url": "",
-            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/icons/Whatsapp.svg"
+            "icon": "https://raw.githubusercontent.com/ercanulucandev/modrix-modules/main/icons/Whatsapp.svg"
         }
     ]
 }

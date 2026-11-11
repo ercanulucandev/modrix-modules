@@ -27,5 +27,5 @@ Rehberler: [Modüller](docs/modules.md) · [Mağaza (e-ticaret)](docs/shop.md) �
 | `icons/` | Modül simgeleri |
 
 Modül geliştirmek: [Modül yazma rehberi](https://github.com/ercanulucandev/modrix/blob/main/docs/module-tutorial.md) ·
-yayınlamak: `php modrix store:build --base=https://raw.githubusercontent.com/ercanulucandev/modrix-store/main/`
+yayınlamak: çekirdeğin yanında bu depo `modrix-modules` adıyla dururken `php modrix store:build`
 ([ayrıntı](https://github.com/ercanulucandev/modrix/blob/main/docs/store.md)).
