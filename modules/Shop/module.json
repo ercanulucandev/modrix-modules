@@ -1,0 +1,24 @@
+{
+    "name": "Mağaza",
+    "version": "1.0.0",
+    "description": "E-ticaret: ürünler, varyantlar (beden/renk), stok, kategoriler, sepet, ödeme (havale/EFT, kapıda ödeme, iyzico, PayTR), sipariş takibi ve e-posta bildirimleri. Mesafeli satış sözleşmesi onayı.",
+    "author": "Modrix",
+    "requires": {
+        "php": "8.1"
+    },
+    "menu": {
+        "admin": [
+            {
+                "url": "admin/shop/products",
+                "label": "Ürünler",
+                "icon": "tag",
+                "order": 25,
+                "permission": "shop.manage",
+                "group": "shop"
+            }
+        ]
+    },
+    "permissions": {
+        "shop.manage": "Mağaza: ürünler ve siparişler"
+    }
+}

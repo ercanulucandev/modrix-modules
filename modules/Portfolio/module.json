@@ -1,0 +1,12 @@
+{
+    "name": "Portfolyo",
+    "version": "1.0.0",
+    "description": "Projeler ve galeriler: kapak, çoklu görsel (büyütülebilir), kategori, müşteri, yıl. /portfolio ve proje sayfaları, ana sayfada \"Portfolyo\" bölümü, sayfalarda [gallery proje-adresi].",
+    "author": "Modrix",
+    "requires": {
+        "php": "8.1"
+    },
+    "permissions": {
+        "portfolio.manage": "Portfolyo projelerini yönet"
+    }
+}

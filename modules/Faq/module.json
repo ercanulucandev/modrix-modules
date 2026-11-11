@@ -1,0 +1,12 @@
+{
+    "name": "SSS",
+    "version": "1.0.0",
+    "description": "Sıkça sorulan sorular: gruplar, sıralama, açılır kapanır liste. /faq sayfası (Google için FAQPage verisiyle), ana sayfada \"SSS\" bölümü, sayfalarda [faq] ya da [faq grup-adi].",
+    "author": "Modrix",
+    "requires": {
+        "php": "8.1"
+    },
+    "permissions": {
+        "faq.manage": "Sıkça sorulan soruları yönet"
+    }
+}

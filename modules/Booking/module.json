@@ -1,0 +1,25 @@
+{
+    "name": "Randevu",
+    "version": "1.0.0",
+    "description": "Online randevu: hizmetler (süre, fiyat), personel, çalışma saatleri, tatil günleri; ziyaretçi boş saati seçip randevu alır, e-postayla onay ve iptal bağlantısı gelir. Sayfalarda [booking], ana sayfada \"Randevu al\" bölümü.",
+    "author": "Modrix",
+    "requires": {
+        "php": "8.1"
+    },
+    "menu": {
+        "admin": [
+            {
+                "url": "admin/booking",
+                "label": "Randevular",
+                "tab": "Randevular",
+                "icon": "calendar",
+                "order": 10,
+                "permission": "booking.manage",
+                "group": "booking"
+            }
+        ]
+    },
+    "permissions": {
+        "booking.manage": "Randevular, hizmetler ve personel"
+    }
+}

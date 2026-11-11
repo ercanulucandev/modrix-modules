@@ -1,0 +1,31 @@
+{
+    "name": "Blog",
+    "version": "2.1.0",
+    "description": "Yazılar: kategoriler, etiketler, öne çıkan görsel, ileri tarihli yayın, ilgili yazılar, RSS; WordPress tarzı tam sayfa düzenleyici.",
+    "author": "Modrix",
+    "requires": {
+        "php": "8.1"
+    },
+    "menu": {
+        "site": [
+            {
+                "url": "blog",
+                "label": "Blog",
+                "order": 20
+            }
+        ],
+        "admin": [
+            {
+                "url": "admin/blog",
+                "label": "Yazılar",
+                "icon": "document",
+                "order": 20,
+                "permission": "blog.manage",
+                "group": "content"
+            }
+        ]
+    },
+    "permissions": {
+        "blog.manage": "Blog yazılarını yönet"
+    }
+}

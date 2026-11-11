@@ -1,0 +1,24 @@
+{
+    "name": "Bülten",
+    "version": "1.0.0",
+    "description": "E-posta bülteni: abonelik formu (KVKK onay kutusu, çift onay), abonelikten çıkma bağlantısı, aboneler listesi, CSV dışa aktarma ve abonelere toplu e-posta. Ana sayfada \"Bülten\" bölümü, sayfalarda [newsletter].",
+    "author": "Modrix",
+    "requires": {
+        "php": "8.1"
+    },
+    "menu": {
+        "admin": [
+            {
+                "url": "admin/newsletter",
+                "label": "Bülten",
+                "icon": "mail",
+                "order": 45,
+                "permission": "newsletter.manage",
+                "group": "marketing"
+            }
+        ]
+    },
+    "permissions": {
+        "newsletter.manage": "Bülten aboneleri ve toplu e-posta"
+    }
+}

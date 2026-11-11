@@ -1,0 +1,9 @@
+{
+    "name": "Canlı destek",
+    "version": "1.0.0",
+    "description": "Tawk.to, Crisp ya da Tidio canlı destek penceresini kod yazmadan ekler. Çerez onayı modülü açıksa ziyaretçi \"işlevsel\" çerezlere izin verince yüklenir.",
+    "author": "Modrix",
+    "requires": {
+        "php": "8.1"
+    }
+}

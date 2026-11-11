@@ -1,0 +1,12 @@
+{
+    "name": "Ekip",
+    "version": "1.0.0",
+    "description": "Ekip üyeleri: fotoğraf, görev, kısa tanıtım, iletişim ve sosyal bağlantılar. /team sayfası, ana sayfada \"Ekibimiz\" bölümü, sayfalarda [team].",
+    "author": "Modrix",
+    "requires": {
+        "php": "8.1"
+    },
+    "permissions": {
+        "team.manage": "Ekip üyelerini yönet"
+    }
+}

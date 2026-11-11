@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS form_entries;
+DROP TABLE IF EXISTS forms;

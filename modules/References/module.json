@@ -1,0 +1,12 @@
+{
+    "name": "Referanslar",
+    "version": "1.0.0",
+    "description": "Müşteri yorumları (puanlı) ve referans logoları. /references sayfası, ana sayfada \"Müşteri yorumları\" ve \"Referanslar\" bölümleri, sayfalarda [testimonials] ve [clients].",
+    "author": "Modrix",
+    "requires": {
+        "php": "8.1"
+    },
+    "permissions": {
+        "references.manage": "Referansları ve müşteri yorumlarını yönet"
+    }
+}

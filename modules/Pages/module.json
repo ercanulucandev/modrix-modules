@@ -1,0 +1,24 @@
+{
+    "name": "Sayfalar",
+    "version": "1.3.0",
+    "description": "WordPress'teki gibi sabit sayfalar: Hakkımızda, İletişim, KVKK... Alt sayfalar, sayfa şablonları, öne çıkan görsel, SEO açıklaması ve ana sayfa olarak seçme.",
+    "author": "Modrix",
+    "requires": {
+        "php": "8.1"
+    },
+    "menu": {
+        "admin": [
+            {
+                "url": "admin/pages",
+                "label": "Sayfalar",
+                "icon": "pages",
+                "order": 15,
+                "permission": "pages.manage",
+                "group": "content"
+            }
+        ]
+    },
+    "permissions": {
+        "pages.manage": "Sayfaları yönet"
+    }
+}

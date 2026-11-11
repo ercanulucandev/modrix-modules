@@ -1,0 +1,12 @@
+{
+    "name": "Formlar",
+    "version": "1.1.0",
+    "description": "İletişim ve başvuru formları: sürükle-bırak form oluşturucu, gelen mesajlar kutusu, e-posta bildirimi, spam koruması. Sayfalara [form iletisim] ile, ana sayfaya \"Form\" bölümüyle eklenir.",
+    "author": "Modrix",
+    "requires": {
+        "php": "8.1"
+    },
+    "permissions": {
+        "forms.manage": "Formlar ve gelen mesajlar"
+    }
+}

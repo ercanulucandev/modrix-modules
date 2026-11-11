@@ -1,0 +1,9 @@
+{
+    "name": "Çerez onayı",
+    "version": "1.0.0",
+    "description": "KVKK / GDPR çerez bildirimi: kabul et, reddet, tercihler (analitik, pazarlama, işlevsel). Onay verilene kadar Google Analytics ve canlı destek gibi kodlar çalışmaz. Tercihler bağlantısı: #cookie-settings.",
+    "author": "Modrix",
+    "requires": {
+        "php": "8.1"
+    }
+}
